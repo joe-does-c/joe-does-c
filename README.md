@@ -1,0 +1,5 @@
+-  Hello, I’m @joe-does-c
+-  I’m interested in porogramming
+-  How to reach me joeisgoodatmaths@gmail.com
+-  Pronouns: he/him
+-  Fun fact: i like penguins
